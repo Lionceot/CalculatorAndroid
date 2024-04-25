@@ -1,4 +1,4 @@
-package com.example.taskmanagerandroid
+package com.example.calculatorandroid
 
 import org.junit.Test
 

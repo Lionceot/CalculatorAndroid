@@ -13,5 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "TaskManagerAndroid"
+rootProject.name = "CalculatorAndroid"
 include(":app")
