@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.taskmanagerandroid"
+    namespace = "com.example.calculatorandroid"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.taskmanagerandroid"
+        applicationId = "com.example.calculatorandroid"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
